@@ -15,7 +15,7 @@
         },
         onFinished: function (event, currentIndex)
         {
-            alert('Finish!');
+
         }
     });
 })(this, jQuery);

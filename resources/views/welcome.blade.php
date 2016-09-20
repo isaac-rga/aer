@@ -59,20 +59,106 @@
     <div class="container theme-showcase" role="main">
 
         <!-- Main jumbotron for a primary marketing message or call to action -->
-        <div class="jumbotron">
+        <div class="well well-lg">
             <form id="example-form" action="#">
                 <div>
-                    <h3>Account</h3>
-                    <section>
-                        <label for="userName">User name *</label>
-                        <input id="userName" name="userName" type="text" class="required">
-                        <label for="password">Password *</label>
-                        <input id="password" name="password" type="text" class="required">
-                        <label for="confirm">Confirm Password *</label>
-                        <input id="confirm" name="confirm" type="text" class="required">
-                        <p>(*) Mandatory</p>
+                    <h3>Modelos</h3>
+                    <section class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-4 panel">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+
+                            </div>
+                            <div class="col-md-4 panel">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="/img/Final.png" class="media-object" width="50" height="50">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </section>
-                    <h3>Profile</h3>
+                    <h3>Colores</h3>
                     <section>
                         <label for="name">First name *</label>
                         <input id="name" name="name" type="text" class="required">
@@ -84,7 +170,7 @@
                         <input id="address" name="address" type="text">
                         <p>(*) Mandatory</p>
                     </section>
-                    <h3>Hints</h3>
+                    <h3>Logos</h3>
                     <section>
                         <ul>
                             <li>Foo</li>
@@ -92,9 +178,8 @@
                             <li>Foobar</li>
                         </ul>
                     </section>
-                    <h3>Finish</h3>
+                    <h3>Pago</h3>
                     <section>
-                        <input id="acceptTerms" name="acceptTerms" type="checkbox" class="required"> <label for="acceptTerms">I agree with the Terms and Conditions.</label>
                     </section>
                 </div>
             </form>
